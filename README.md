@@ -2,13 +2,13 @@
 My personal summary of my JavaScript knowledge.
 
 
-Fundamentals
+**Fundamentals**
   -Syntax
   -Operators & Operands
   -Statements & Conditons
 	-Strings
   
-Data Structures
+**Data Structures**
   -Objects
   -Classes
   -List
@@ -21,22 +21,22 @@ Data Structures
   -Trees
   -Matrix
 
-Notes
+**Notes**
   -Rules of the language
   -Strengths and limitations
   
-Class Programs
+**Class Programs**
   -Homeworks
   -Projects
 
-Algorithms
+**Algorithms**
   -Sorting Algorithms
   -Searching Algorithms
 
-Concepts (Buttons)
+**Concepts (Buttons)**
   -Theory
   -In Practice
 
-Projects
+**Projects**
   -Statistical Models
-	-String manipulation
+  -String manipulation
